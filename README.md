@@ -14,11 +14,6 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
   <a href="https://github.com/kaua-borges">
     <img src="https://img.shields.io/badge/GitHub- kaua-borges -181717?style=for-the-badge&logo=github" />
   </a>
-  
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -52,8 +47,8 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaua-borges&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-borges&layout=compact&theme=tokyonight" />
 </p>
 
 ---
