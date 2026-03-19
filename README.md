@@ -14,6 +14,10 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
   <a href="https://github.com/kaua-borges">
     <img src="https://img.shields.io/badge/GitHub-kauaborges-181717?style=for-the-badge&logo=github" />
   </a>
+  <p align="left">
+  <a href="https://www.linkedin.com/in/kaua-borges-do-nascimento-0b100639b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
  
 
 ---
@@ -49,7 +53,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaua-borges&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-borges&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-borges&layout=compact&theme=tokyonight&count_private=true"
 </p>
 
 ---
